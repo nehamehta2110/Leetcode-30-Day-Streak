@@ -25,7 +25,7 @@ class Solution:
 def main():
     stock = [7, 1, 5, 3, 6, 4]
     solve = Solution()
-    solve.maxProfit(stock)
+    print(solve.maxProfit(stock))
 
 
 if __name__ == '__main__':
